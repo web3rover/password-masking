@@ -4,7 +4,7 @@
  * Plugin Name: Password Masking
  * Plugin URI: http://sitepoint.com/
  * Description: An plugin to add show password checkbox to Login and Password Reset Forms.
- * Author: WooThemes
+ * Author: Narayan Prusty
  */
 
 function pm_enqueue_scripts() 
